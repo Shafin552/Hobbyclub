@@ -1,0 +1,105 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #EBA937;
+  }
+  #ccc{
+      float: right;
+  }
+  table{
+      padding: 50px;
+      height: 300px;
+      width: 400px;;
+  }
+  table tr td{
+      border: #111 1px solid;
+      border-collapse: collapse;
+  }
+  td{
+      color: black;
+      font-size: 2em;
+  }
+  .sec1{
+      background-color: #EBA937;
+  }
+  #photo{
+      position: absolute;
+      top: 90px;
+      right: 75px;
+  }
+  .sec2{
+      padding: 0%;
+      background-color: black;
+      color: white;
+  }
+  #title1{
+      font-size: 3em;
+      text-align: center;
+  }
+  p{
+      font-size: 1.8em;
+  }
+  .sec3{
+    padding: 0%;
+    background-color: black;
+    color: white;
+}
+.sec4{
+    padding: 0%;
+    background-color: rgb(246, 242, 183);
+    color: black;
+}
+.sec5{
+    border: #111;
+    padding: 0%;
+    background-color: rgb(246, 242, 183);
+    color: black;
+}
+.sec6{
+    background-color: #EBA937;
+    color: #333;
+}
+#title2{
+    font-size: 3em;
+    text-align: center;
+}
+#deepto{
+    font-size: 2em;
+    text-align: center;
+    text-decoration: none;
+}
+#munna{
+    font-size: 2em;
+    text-align: center;
+    text-decoration: none;
+}
+#safayat{
+    font-size: 2em;
+    text-align: center;
+    text-decoration: none;
+}
